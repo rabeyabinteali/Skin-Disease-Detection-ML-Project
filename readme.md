@@ -28,7 +28,7 @@ Our website is built using the latest technologies in web development and deep l
 - **Front-end**: Python, Streamlit
 - **Back-end**: Python
 - **Deep Learning**: Implemented using TensorFlow and Keras, leveraging pre-trained models and fine-tuning them on a specialized skin disease dataset.
-- 
+  
 ## Resources
 - EfficientNetB7
 - <a href="https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset/data"> DataSet</a>
