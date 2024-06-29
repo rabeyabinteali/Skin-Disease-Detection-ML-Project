@@ -1,5 +1,5 @@
 # Skin Disease Detection ML Project
-Co-Author: <a href="github.com/odinpie">Maliha Tabassum</a>
+Co-Creator: <a href="github.com/odinpie">Maliha Tabassum</a>
 
 Welcome to our Skin Disease Detection Website, a cutting-edge platform designed to assist in the early diagnosis and treatment of various skin diseases using deep learning technology.
 
