@@ -1,4 +1,5 @@
-# Skin Disease Detection Website
+# Skin Disease Detection ML Project
+Co-Author: <a href="github.com/odinpie">Maliha Tabassum</a>
 
 Welcome to our Skin Disease Detection Website, a cutting-edge platform designed to assist in the early diagnosis and treatment of various skin diseases using deep learning technology.
 
@@ -6,6 +7,7 @@ Welcome to our Skin Disease Detection Website, a cutting-edge platform designed 
 
 Skin diseases affect millions of people worldwide, often requiring expert diagnosis and timely treatment to prevent complications. Our website offers a user-friendly interface where users can upload images of their skin conditions. The system then analyzes the images using advanced deep learning algorithms to provide a preliminary diagnosis.
 
+---
 
 ## How It Works
 1. **Home and About page**: Containes information about the website and Dataset.
